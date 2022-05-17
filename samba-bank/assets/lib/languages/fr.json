@@ -838,6 +838,20 @@
     "Requisites_send_success":"Les demandes ont été envoyées",
     "Requisites_send_failure":"Échec de l'envoi des conditions requises",
     "samba_label_mark": "Samba Bank, 2022. All rights reserved.",
-    "recent_transactions": "TRANSACTIONS RÉCENTES"
-  
+    "recent_transactions": "TRANSACTIONS RÉCENTES",
+    "continue": "Continuez",
+    "limited_management":"Gestion des limites",
+    "digital_loan": "Prêt numérique",
+    "profile_management": "Gestion de profils",
+    "digital_transactions": "Transactions numériques",
+    "services_and_subscriptions": "Services et abonnements",
+    "fx_portal": "Portail FX",
+    "eprc_issuance": "Délivrance EPRC",
+    "cheque_management": "Gestion des chèques",
+    "key_fact_statement": "Déclaration de fait clé",
+    "feedback_and_complaints": "Commentaires et réclamations",
+    "locate_us": "Localisez-nous",
+    "contact_us": "Contactez-nous",
+    "talk_to_us": "Parle-nous",
+    "income_and_expenses":"REVENUS ET DÉPENSES"
 }

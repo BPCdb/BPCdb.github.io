@@ -776,7 +776,21 @@
     "Number": "Number",
     "Requisites_send_success":"Requisites have been sent",
     "Requisites_send_failure":"Failed to send Requisites",
-    "About_bank" : "About bank",
-    "samba_label_mark": "Samba Bank, 2022. All rights reserved."
-
+    "About_bank": "About bank",
+    "samba_label_mark": "Samba Bank, 2022. All rights reserved.",
+    "continue": "Continue",
+    "limited_management":"Limit management",
+    "digital_loan": "Digital loan",
+    "profile_management": "Profile management",
+    "digital_transactions": "Digital transactions",
+    "services_and_subscriptions": "Services and subscriptions",
+    "fx_portal": "FX portal",
+    "eprc_issuance": "EPRC issuance",
+    "cheque_management": "Cheque management",
+    "key_fact_statement": "Key fact statement",
+    "feedback_and_complaints": "Feedback and complaints",
+    "locate_us": "Locate us",
+    "contact_us": "Contact us",
+    "talk_to_us": "Talk to us",
+    "income_and_expenses":"INCOME AND EXPENSES"
 }

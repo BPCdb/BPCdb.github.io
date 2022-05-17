@@ -780,5 +780,20 @@
     "Requisites_send_failure":"Реквизиты отправить не удалось",
     "About_bank" : "О банке",
     "samba_label_mark": "Samba Bank, 2022. All rights reserved.",
-    "recent_transactions": "ПОСЛЕДНИЕ СДЕЛКИ"
+    "recent_transactions": "ПОСЛЕДНИЕ СДЕЛКИ",
+    "continue": "Далее",
+    "limited_management":"Управление лимитами",
+    "digital_loan": "Цифровой кредит",
+    "profile_management": "Управление профилями",
+    "digital_transactions": "Цифровые транзакции",
+    "services_and_subscriptions": "Услуги и подписки",
+    "fx_portal": "FX портал",
+    "eprc_issuance": "Выпуск EPRC",
+    "cheque_management": "Проверка управления",
+    "key_fact_statement": "Заявление о ключевом факте",
+    "feedback_and_complaints": "Отзывы и жалобы",
+    "locate_us": "Найдите нас",
+    "contact_us": "Связаться с нами",
+    "talk_to_us": "Поговорить с нами",
+    "income_and_expenses":"ДОХОДЫ И РАСХОДЫ"
 }
