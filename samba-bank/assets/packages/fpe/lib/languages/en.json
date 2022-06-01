@@ -84,6 +84,7 @@
     "biometry_no_setup_android": "Biometric authentication is not set up on your device. Go to \"Settings > Security\" to add biometric authentication.",
     "biometry_no_setup_ios": "Biometric authentication is not set up on your device. Please either enable Touch ID or Face ID in settings on your phone.",
     "biometry_not_recognized": "Not recognized. Try again.",
+    "biometry_not_supported": "Your device does not support biometric authentication",
     "biometry_required": "Permission required",
     "biometry_use": "Use biometric authentication to log in to the app?",
     "biometry_use_face": "Use a biometric facial scan to log in to the app?",

@@ -66,6 +66,7 @@
   "biometry_about_face_id": "የንክኪ መታወቂያ መግቢያን ካነቁ የጣት አሻራዎን በመጠቀም ወደ ስርዓቱ የመግባት ችሎታ ይሰጥዎታል።",
   "biometry_about_fingerprint": "የንክኪ መታወቂያ መግቢያን ካነቁ የጣት አሻራዎን በመጠቀም ወደ ስርዓቱ የመግባት ችሎታ ይሰጥዎታል።",
   "biometry_about_touch_id": "የንክኪ መታወቂያ መግቢያን ካነቁ የጣት አሻራዎን በመጠቀም ወደ ስርዓቱ የመግባት ችሎታ ይሰጥዎታል።",
+  "biometry_not_supported": "መሳሪያዎ የባዮሜትሪክ ማረጋገጫን አይደግፍም",
   "block_account": "መለያ አግድ",
   "block_card": "የማገጃ ካርድ",
   "blocking_reasin": "የማገድ ምክንያት",
