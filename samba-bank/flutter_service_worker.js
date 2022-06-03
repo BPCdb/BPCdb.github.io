@@ -5,9 +5,9 @@ const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "77d814bf73656b818077dfda10d225d5",
 "splash/style.css": "d4198f3312b6f480da2da5610d5043e5",
-"index.html": "74d7ce0c29cdc583969e938dea0b2637",
-"/": "74d7ce0c29cdc583969e938dea0b2637",
-"main.dart.js": "453fa68a525dc96b8871a023fe1b409e",
+"index.html": "2284552e49b257422e61e8303db46476",
+"/": "2284552e49b257422e61e8303db46476",
+"main.dart.js": "9c3dca56183e27f8cd35c83d32bd2a7e",
 "README.md": "819ac07eefd10498065880dd0d4e318e",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "pubspec.yaml": "762a45c1fc5e41e563615abedfc5e7a9",
@@ -71,9 +71,9 @@ const RESOURCES = {
 "assets/lib/languages/en.json": "1115b6ed7c04948ffc4e88810bee9997",
 "assets/lib/languages/fr.json": "76c496128ca5d9be03a0e3d7ac988169",
 "assets/lib/themes/figma/figma_settings.json": "8d98d6ca82bbdd6a2c5b698f36e2ba5e",
-"assets/.git/ORIG_HEAD": "ae7161077a869067847507c1cfc72645",
+"assets/.git/ORIG_HEAD": "902bb33e1cfbf2ee90cf3f53113b838e",
 "assets/.git/HEAD": "6e3d0a32632ef1a186b5efc54f6016b0",
-"assets/.git/logs/HEAD": "e672768d418ef3af53eab2f0cd2b577f",
+"assets/.git/logs/HEAD": "bcf1c8448ed41be2dbe05be910ed12b4",
 "assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
 "assets/assets/svg/trading.svg": "0ea6f356afb9102867a5858cad301bfe",
 "assets/assets/svg/ic_disconnect.svg": "01fec353eb6cbaf0913873d70ed759b7",
@@ -750,11 +750,7 @@ const RESOURCES = {
 "assets/assets/fonts/Inter-ExtraLight.otf": "233a7994c4891ef316b60ff2f418860a",
 "assets/assets/fonts/Inter-ExtraBoldItalic.otf": "00814356f03b15b04fea23026aab33b5",
 "assets/assets/fonts/Inter-BoldItalic.otf": "bc15d5294ed7ae49ba6494669e4137af",
-"assets/assets/fonts/Inter-LightItalic.otf": "2c6a6b50ced943463617f91d126002c3",
-"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
-"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
-"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
-"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba"
+"assets/assets/fonts/Inter-LightItalic.otf": "2c6a6b50ced943463617f91d126002c3"
 };
 
 // The application shell files that are downloaded before a service worker can
