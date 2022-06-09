@@ -680,6 +680,8 @@
   "rate_7per": "Taux 7 % par an\nAvec dépôts et retraits",
   "required": "Ce champ est requis",
   "Repeat Transaction":"Répéter la transaction",
+  "Requisites_send_success":"Les demandes ont été envoyées",
+  "Requisites_send_failure":"Échec de l'envoi des conditions requises",
   "history": "Histoire",
   "req_pay": "Paiement par détails",
   "save changes":"Sauvegarder les modifications",

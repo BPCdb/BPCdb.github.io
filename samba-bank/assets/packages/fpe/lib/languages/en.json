@@ -476,6 +476,8 @@
     "requirements": "Requirements",
     "read_and_fully_agree": "I have read and fully agree with the terms and conditions for placing deposits and tariffs.",
     "russian":"Russian",
+    "Requisites_send_success": "Requisites have been sent",
+    "Requisites_send_failure": "Failed to send Requisites",
     "Sale": "Sale",
     "Save_to_templates": "Save to templates",
     "save changes":"Save changes",
